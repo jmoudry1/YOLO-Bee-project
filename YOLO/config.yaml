@@ -1,0 +1,9 @@
+path: /media/bee/trash/YOLO  #dataset root dir
+train: images/train
+val: images/val
+# Classes
+
+names:
+  0: blinky
+  1: inky
+  2: clyde
